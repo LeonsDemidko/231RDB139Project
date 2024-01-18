@@ -1,8 +1,16 @@
 README
 Projekta nosaukums: Aptaujas Analīzes Rīks
 
-Projekta mērķis:
-Šis rīks ir izstrādāts, lai atvieglotu psiholoģijas studentu ikdienu, nodrošinot viņiem ātru un efektīvu veidu, kā analizēt aptaujas datus. Uz arvien pieaugošā informācijas apjoma un datu analīzes pieaugošās nozīmes fona šī programma piedāvā efektīvu risinājumu, kas ļauj ietaupīt laiku un resursus, vienlaikus nodrošinot precīzu un detalizētu datu apstrādi. Paredzēts konkrētu pētījumu rezultātu analīzei, tas ir plaši pielietojams dažādām vajadzībām un noderēs ne tikai psiholoģijas studentiem, bet arī citu jomu profesionāļiem.
+Projekta uzdevumi:
+Šī projekta mērķis ir izstrādāt rīku, kas atvieglo un paātrina aptaujas datu analīzi. Šī rīka galvenais uzdevums ir automātiski apstrādāt aptaujas datus, nodrošināt detalizētu atbilžu analīzi, vizualizēt datus diagrammu veidā un saglabāt analīzes rezultātus strukturētā veidā. Tas īpaši palīdzēs psiholoģijas studentiem un pētniekiem, ļaujot viņiem efektīvi interpretēt respondentu atbildes un tendences.
+
+Izmantotās Python bibliotēkas un to izvēles iemesli:
+
+   openpyxl: šī bibliotēka tiek izmantota Excel failu lasīšanai un rakstīšanai. Tas ļauj viegli manipulēt ar datiem, kas glabājas Excel formātā, un ir būtiski, lai automātiski iegūtu aptaujas datus un saglabātu analīzes rezultātus.
+   
+   kolekcijas. Skaitītājs: izmanto, lai efektīvi saskaitītu un analizētu atbildes, identificējot populārākās atbildes un to biežumu. Tas atvieglo datu vākšanas un analīzes precizitāti.
+
+       
 
 Galvenās funkcijas:
 
