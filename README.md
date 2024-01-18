@@ -2,7 +2,7 @@ README
 Projekta nosaukums: Aptaujas Analīzes Rīks
 
 Projekta mērķis:
-Šis rīks ir izstrādāts, lai atvieglotu psiholoģijas studentu ikdienu, nodrošinot viņiem ātru un efektīvu veidu, kā analizēt aptaujas datus. Uz arvien pieaugošā informācijas apjoma un datu analīzes pieaugošās nozīmes fona šī programma piedāvā efektīvu risinājumu, kas ļauj ietaupīt laiku un resursus, vienlaikus nodrošinot precīzu un detalizētu datu apstrādi. Paredzēts konkrētu pētījumu rezultātu analīzei, tas ir plaši pielietojams dažādām vajadzībām un noderēs ne tikai psiholoģijas studentiem, bet arī citu jomu profesionāļiem.( Mans draugs mācās Psiholoģijas kursā un Es gribēju atvieglot viņam dzīvi )
+Šis rīks ir izstrādāts, lai atvieglotu psiholoģijas studentu ikdienu, nodrošinot viņiem ātru un efektīvu veidu, kā analizēt aptaujas datus. Uz arvien pieaugošā informācijas apjoma un datu analīzes pieaugošās nozīmes fona šī programma piedāvā efektīvu risinājumu, kas ļauj ietaupīt laiku un resursus, vienlaikus nodrošinot precīzu un detalizētu datu apstrādi. Paredzēts konkrētu pētījumu rezultātu analīzei, tas ir plaši pielietojams dažādām vajadzībām un noderēs ne tikai psiholoģijas studentiem, bet arī citu jomu profesionāļiem.
 
 Galvenās funkcijas:
 
